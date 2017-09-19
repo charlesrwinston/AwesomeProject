@@ -1,4 +1,4 @@
-The State of our Nation App
+The State of our Nation Tiny App
 by Charles Winston
 
 
